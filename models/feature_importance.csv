@@ -1,0 +1,125 @@
+feature,mean_abs_shap
+debt_to_income_ratio,0.5084406722063995
+credit_score,0.30993556472407735
+applicant_monthly_income,0.24945459534346406
+annual_income,0.24752178468409528
+avg_balance,0.20343460289501478
+age,0.20249664211057555
+collateral_flag,0.19335732323137042
+requested_amount,0.18347203999583883
+interest_rate,0.17251230530490103
+loan_to_income,0.15377166817826754
+education_Post Graduate,0.1490494983097932
+num_credit_inquiries_6m,0.14685780347121852
+num_late_payments_30d,0.14283998250540553
+loan_type_Personal,0.13852842098181267
+oldest_account_age_months,0.13173667081121604
+total_outstanding_debt,0.1250508774229004
+employment_type_Salaried,0.0968539266330381
+loan_type_Home,0.09248134912189801
+loan_purpose_New Car,0.08864609911138549
+residence_type_Rented,0.08281341643656183
+employment_type_Self-Employed,0.08065053282154418
+loan_purpose_Debt Consolidation,0.07304259837495654
+marital_status_Widowed,0.056624029748897846
+residence_type_Owned,0.0552849368611011
+marital_status_Single,0.05267640588862197
+residence_type_Mortgaged,0.05170061653532504
+occupation_Bank Officer,0.047747536060175275
+occupation_Chartered Accountant,0.04615586291801119
+num_defaults_prior,0.045790203984507415
+loan_term_months,0.04441647220900538
+num_late_payments_90d,0.042296799084483486
+gender_Male,0.04078398655823233
+occupation_Analyst,0.0398509739707341
+occupation_Nurse,0.03948244757287293
+existing_emi,0.03920885259348351
+dependents,0.03844761468591004
+num_open_accounts,0.035637522724330996
+occupation_Architect,0.03422734724313774
+city_Bhopal,0.03421030635527329
+loan_type_Education,0.03406816602232779
+loan_purpose_Wedding,0.03354156229717611
+state_Madhya Pradesh,0.03285003081968784
+emi_outflow,0.03172273500023981
+loan_purpose_Travel,0.031409750412863174
+occupation_Sales Executive,0.03053603837010439
+years_at_residence,0.029589521316153288
+city_Surat,0.029505354315591308
+loan_purpose_Home Construction,0.026795278371501422
+loan_purpose_Home Purchase,0.02608768249145606
+loan_purpose_Equipment Purchase,0.023384501945896648
+state_Delhi,0.022726107175226416
+city_Delhi,0.022726107175226416
+txn_count,0.022616430801861993
+kyc_status_Verified,0.022056190897364186
+occupation_Restaurant Owner,0.020964025347282814
+education_Graduate,0.02082426054694593
+total_inflow,0.02028204298632567
+inflow_outflow_ratio,0.020195680259435123
+education_High School,0.019948754806715055
+education_Professional Degree,0.019907401388544684
+occupation_Manufacturer,0.019835299982126502
+state_Telangana,0.019197198257145585
+city_Hyderabad,0.019197198257145585
+city_Chandigarh,0.019148212728325207
+loan_purpose_Working Capital,0.01870914886341748
+credit_utilization_ratio,0.017881046327646682
+net_cashflow,0.01665256885492619
+occupation_HR Manager,0.016229116955720702
+loan_purpose_Higher Studies India,0.016226471371185436
+city_Jaipur,0.015963091513876444
+state_Rajasthan,0.015963091513876444
+occupation_Trader,0.015910478068590337
+loan_purpose_Skill Certification,0.015380539023042058
+city_Chennai,0.015362958469991236
+city_Nagpur,0.014901650491263272
+state_Tamil Nadu,0.013488404891626355
+occupation_Lawyer,0.013314821813842052
+occupation_Consultant,0.012736346457261639
+occupation_Teacher,0.012116653971346222
+city_Lucknow,0.011834468202275983
+loan_purpose_Medical Emergency,0.01158458873758015
+state_Gujarat,0.011413727835057107
+city_Mysuru,0.010927762323154724
+state_Haryana,0.009853379237110375
+city_Gurugram,0.009853379237110375
+loan_purpose_Used Car,0.008733770237913264
+occupation_Contractor,0.008244178174624413
+city_Mumbai,0.008222140746411047
+loan_type_Business,0.00715604875219483
+loan_purpose_Two Wheeler,0.0071441743019525486
+total_outflow,0.007065426218521104
+city_Bengaluru,0.0070226930736621744
+state_Uttar Pradesh,0.006914123360982293
+total_credit_limit,0.006507503470903609
+city_Pune,0.006134600128937426
+loan_purpose_Home Renovation,0.005830376988534249
+city_Indore,0.00477423852714618
+state_Karnataka,0.003521045317649088
+loan_purpose_Plot Purchase,0.0035044035027067635
+occupation_Freelance Designer,0.003154703622261903
+city_Kochi,0.003046310641010423
+state_Kerala,0.003046310641010423
+employment_type_Retired,0.002872376729217202
+occupation_Homemaker,0.0026551233034049055
+occupation_Software Engineer,0.00257487537370486
+occupation_Pensioner,0.002455692241062476
+occupation_Retail Store Owner,0.002111752018123562
+occupation_Retired Private Sector,0.0019521238980739128
+occupation_Not Employed,0.0019273103790468872
+employment_type_Unemployed,0.0018388902026331335
+city_Coimbatore,0.001635054318675712
+city_Noida,0.0015664763500199378
+loan_type_Gold,0.0015531015869367335
+loan_purpose_Gold Loan,0.0015531015869367335
+marital_status_Married,0.0013773289464947985
+occupation_Retired Government Employee,0.0012993454498862603
+state_West Bengal,0.001141026964777462
+city_Kolkata,0.001141026964777462
+occupation_Student,0.0008508492588054628
+occupation_Doctor (Practice),0.0005787199225511373
+loan_purpose_Business Expansion,0.000358322576927267
+state_Maharashtra,0.0001656261310805771
+loan_purpose_Study Abroad,3.9439293983455784e-05
+bankruptcies,2.0425730123138783e-18
